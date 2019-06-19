@@ -1,0 +1,1001 @@
+id,manufacturer,name,cost
+1,Toyota,4Runner,38020
+2,Chevrolet,Silverado 3500,117115
+3,Land Rover,Range Rover Evoque,126745
+4,Rolls-Royce,Phantom,175636
+5,GMC,Sierra 3500,70390
+6,Dodge,Intrepid,127087
+7,Chevrolet,Colorado,56789
+8,Mazda,B-Series Plus,130609
+9,Oldsmobile,Achieva,175629
+10,Oldsmobile,Aurora,169182
+11,Hyundai,Accent,151582
+12,Mercedes-Benz,SLK-Class,174146
+13,Ford,Escort,159045
+14,Porsche,944,106195
+15,Ford,Ranger,185994
+16,Dodge,Viper,158493
+17,Porsche,928,56045
+18,Dodge,Dakota Club,105754
+19,Hummer,H1,62843
+20,Suzuki,Samurai,173310
+21,Nissan,Maxima,165544
+22,Ford,Bronco,10680
+23,Kia,Optima,106429
+24,Bentley,Continental,105569
+25,Ford,Thunderbird,95394
+26,Lincoln,Continental,28132
+27,Aston Martin,V8 Vantage S,136906
+28,Chevrolet,Avalanche 1500,73768
+29,Toyota,MR2,79306
+30,Lincoln,Navigator,85112
+31,Audi,A4,161039
+32,Toyota,MR2,169275
+33,Mazda,Miata MX-5,79016
+34,Chevrolet,Tahoe,11486
+35,Volkswagen,Corrado,52595
+36,BMW,525,151370
+37,Mitsubishi,Truck,196573
+38,McLaren,MP4-12C,182578
+39,Ford,Taurus,138150
+40,Plymouth,Breeze,152019
+41,Honda,Element,58679
+42,Mazda,626,198437
+43,Chevrolet,Camaro,119677
+44,Volkswagen,Beetle,36281
+45,Dodge,Grand Caravan,33693
+46,Suzuki,Grand Vitara,107649
+47,Land Rover,Range Rover,96051
+48,Isuzu,Trooper,167149
+49,Pontiac,6000,16415
+50,Volkswagen,GTI,70193
+51,Buick,Enclave,163228
+52,Infiniti,Q,85208
+53,Lexus,IS,199951
+54,Scion,xB,117132
+55,Jeep,Wrangler,105484
+56,Oldsmobile,Regency,162871
+57,GMC,Safari,100754
+58,Mitsubishi,Montero,78091
+59,Pontiac,GTO,179864
+60,Bentley,Continental Super,42970
+61,Suzuki,SJ,77549
+62,Ford,Escort,189828
+63,Mazda,B-Series,85263
+64,Mitsubishi,Endeavor,78600
+65,Ford,F350,32365
+66,Ford,Econoline E250,109657
+67,Nissan,Titan,25142
+68,Ford,Econoline E250,62408
+69,Pontiac,Vibe,75295
+70,GMC,Sonoma,196059
+71,Volkswagen,Eos,127478
+72,Nissan,Pathfinder,152022
+73,Suzuki,SJ,177991
+74,Mercury,Lynx,150693
+75,Maserati,GranTurismo,70908
+76,Volvo,940,176252
+77,Toyota,Matrix,91699
+78,Volvo,S40,130644
+79,Toyota,TundraMax,31185
+80,Ferrari,458 Italia,103346
+81,Mazda,CX-9,11656
+82,Land Rover,Range Rover,52310
+83,Dodge,Avenger,198530
+84,Hyundai,Tucson,56714
+85,Honda,Odyssey,136114
+86,Lexus,GX,62102
+87,Hummer,H2 SUV,112306
+88,Honda,Passport,74474
+89,Suzuki,Daewoo Lacetti,133974
+90,Lotus,Exige,68610
+91,Mercedes-Benz,G-Class,189337
+92,Ford,Taurus,130199
+93,Ford,Econoline E150,16315
+94,Isuzu,Stylus,100575
+95,Hyundai,Veracruz,64193
+96,Volkswagen,Golf,10292
+97,Volvo,S60,180858
+98,Chevrolet,Silverado 1500,93465
+99,Honda,Civic,18500
+100,Eagle,Summit,166771
+101,Chevrolet,Express 2500,43292
+102,Pontiac,Sunfire,135013
+103,Pontiac,Bonneville,187490
+104,Dodge,Ram 3500,48199
+105,Subaru,XT,123317
+106,Mitsubishi,Mighty Max Macro,181453
+107,Toyota,Matrix,177252
+108,Mercedes-Benz,E-Class,90179
+109,GMC,Jimmy,127450
+110,Mitsubishi,GTO,20589
+111,Mazda,Mazda6,95684
+112,Kia,Rio,139529
+113,Mazda,CX-7,63976
+114,Mitsubishi,Sigma,58362
+115,Porsche,944,85387
+116,Lexus,LX,152518
+117,Toyota,Camry,174030
+118,Chevrolet,TrailBlazer,170707
+119,BMW,X6,76951
+120,Toyota,Yaris,177012
+121,Audi,100,11673
+122,Hummer,H1,150765
+123,Aston Martin,V8 Vantage S,144642
+124,Chevrolet,Equinox,69678
+125,Ford,F150,88195
+126,Buick,Rainier,28885
+127,Mazda,Mazda5,158312
+128,Nissan,Altima,12870
+129,Toyota,Tercel,147024
+130,Dodge,Durango,94230
+131,Mitsubishi,Eclipse,185148
+132,Mercury,Milan,75267
+133,Alfa Romeo,164,77716
+134,Chevrolet,Lumina,18064
+135,GMC,Yukon XL 1500,129273
+136,Lincoln,MKZ,187267
+137,Volkswagen,R32,115913
+138,Isuzu,Stylus,84339
+139,Mazda,RX-7,34218
+140,Hummer,H1,29990
+141,Ford,Freestyle,95757
+142,Mitsubishi,Diamante,163651
+143,Mazda,B-Series,105111
+144,Ford,F350,149221
+145,GMC,Sierra 3500,176291
+146,Cadillac,DTS,187829
+147,Mazda,B-Series,26486
+148,Infiniti,G,49200
+149,Audi,TT,149994
+150,Audi,Q7,109105
+151,Mercedes-Benz,W123,145786
+152,Volkswagen,Tiguan,177039
+153,GMC,Envoy XL,29007
+154,Hyundai,Sonata,21672
+155,Lincoln,Mark VIII,142918
+156,Mazda,B-Series Plus,140199
+157,GMC,Envoy XUV,127000
+158,Mercedes-Benz,SLS-Class,69234
+159,Hyundai,Equus,88878
+160,Pontiac,Grand Am,68804
+161,Mercury,Topaz,136675
+162,Chevrolet,Silverado 3500,184414
+163,Mercury,Villager,195249
+164,Ford,Taurus,67488
+165,Volkswagen,Corrado,102517
+166,Jeep,Wrangler,126668
+167,Acura,RL,145785
+168,Pontiac,Montana,32726
+169,Ford,Ranger,93839
+170,Mazda,CX-9,191749
+171,Ford,F450,84015
+172,Buick,Regal,134155
+173,Porsche,Cayenne,15500
+174,Nissan,GT-R,100364
+175,Lincoln,MKT,156799
+176,Oldsmobile,Aurora,51450
+177,Mercury,Grand Marquis,27184
+178,Saturn,S-Series,65556
+179,Saab,9-5,85966
+180,Toyota,Corolla,127867
+181,Suzuki,Sidekick,152353
+182,Mazda,B-Series,55850
+183,Toyota,4Runner,161213
+184,GMC,Savana 2500,156734
+185,Toyota,T100 Xtra,80182
+186,Chevrolet,Corvette,160582
+187,Suzuki,Swift,157198
+188,BMW,M5,172952
+189,Honda,Civic,142021
+190,Porsche,944,104439
+191,GMC,Yukon,61776
+192,Volvo,C70,135875
+193,Hyundai,Veracruz,138932
+194,Geo,Metro,106217
+195,Mitsubishi,Pajero,171297
+196,Dodge,Viper RT/10,125863
+197,Audi,A8,33137
+198,Chevrolet,Cavalier,69560
+199,Toyota,Camry,85717
+200,Pontiac,Grand Am,144788
+201,Mazda,Mazda6,171903
+202,GMC,Sierra 3500,198222
+203,Saab,9-5,125976
+204,Lincoln,Continental,71751
+205,Chevrolet,Corvette,26911
+206,BMW,6 Series,27765
+207,Plymouth,Breeze,129063
+208,Ford,Explorer,55519
+209,Mercury,Sable,73684
+210,Honda,Civic,73321
+211,Chevrolet,G-Series G30,82057
+212,Mercury,Tracer,79448
+213,Mazda,RX-8,53002
+214,Dodge,Ram 2500 Club,138619
+215,BMW,1 Series,63008
+216,Toyota,MR2,28083
+217,Saturn,Ion,166327
+218,Suzuki,Kizashi,125361
+219,Ford,Mustang,65780
+220,Toyota,T100,87013
+221,Mercedes-Benz,CL-Class,74336
+222,Suzuki,SJ,41079
+223,Buick,LeSabre,59051
+224,Chrysler,Town & Country,174248
+225,Chevrolet,Impala,179975
+226,Chevrolet,Corvair,192231
+227,Lexus,HS,146506
+228,Mercury,Mountaineer,172353
+229,BMW,M3,23120
+230,GMC,Suburban 2500,34430
+231,Dodge,Dakota Club,154245
+232,Mercury,Villager,173614
+233,Mercury,Lynx,57733
+234,Oldsmobile,Achieva,170306
+235,Toyota,Venza,147218
+236,Isuzu,i-Series,136793
+237,Oldsmobile,Ciera,169180
+238,Oldsmobile,98,189346
+239,Jeep,Commander,131859
+240,Suzuki,Sidekick,84038
+241,Land Rover,Freelander,187383
+242,Toyota,Land Cruiser,180190
+243,BMW,M6,156419
+244,Kia,Sedona,62532
+245,Mercury,Grand Marquis,39014
+246,Pontiac,GTO,20811
+247,Mazda,RX-8,193533
+248,Hyundai,Tiburon,93074
+249,Honda,Civic,155008
+250,Aston Martin,Vantage,19095
+251,Nissan,Altima,11255
+252,Audi,S8,103056
+253,Acura,Integra,63644
+254,Lincoln,Town Car,68543
+255,Mazda,Familia,98715
+256,Chevrolet,Lumina,34530
+257,BMW,7 Series,130832
+258,Honda,CR-X,163385
+259,Mitsubishi,Lancer Evolution,44076
+260,GMC,3500 Club Coupe,183919
+261,Chevrolet,Suburban 2500,112599
+262,Ford,E350,97125
+263,Scion,xB,162927
+264,Land Rover,Sterling,99671
+265,Scion,tC,31967
+266,Nissan,Murano,100467
+267,Volvo,S40,87419
+268,Toyota,Paseo,51756
+269,Toyota,Camry,61793
+270,BMW,3 Series,42980
+271,Acura,RDX,138355
+272,GMC,Safari,97962
+273,GMC,Yukon,152046
+274,Mitsubishi,GTO,141576
+275,Ford,Ranger,129731
+276,Mercury,Grand Marquis,43141
+277,Saturn,Ion,66460
+278,Volkswagen,Quantum,121724
+279,GMC,Envoy,108937
+280,Mitsubishi,Challenger,45769
+281,Land Rover,LR4,69592
+282,Nissan,Versa,182605
+283,Audi,S4,125200
+284,Volkswagen,New Beetle,20935
+285,Toyota,Sequoia,29133
+286,Chevrolet,Express 2500,108088
+287,Austin,Mini,103519
+288,Mazda,Navajo,75010
+289,Audi,Allroad,157312
+290,Chevrolet,Avalanche 2500,153733
+291,Ford,F350,20691
+292,Jeep,Grand Cherokee,87510
+293,Pontiac,Bonneville,105336
+294,Ford,Ranger,92342
+295,Kia,Rio,13037
+296,Audi,200,168978
+297,Mitsubishi,Galant,13729
+298,Chevrolet,Avalanche,77555
+299,Ford,Flex,23761
+300,Hyundai,Accent,179171
+301,Lexus,LX,146927
+302,Pontiac,6000,151671
+303,Suzuki,SX4,80832
+304,Toyota,FJ Cruiser,22850
+305,Suzuki,Reno,131426
+306,Buick,Skylark,174125
+307,Pontiac,Bonneville,171474
+308,Ford,Thunderbird,93263
+309,Dodge,Ram 3500,86953
+310,Isuzu,Ascender,171639
+311,Dodge,Ram 2500,91718
+312,Porsche,944,17004
+313,Audi,90,135151
+314,Dodge,Colt,181092
+315,Honda,Odyssey,163738
+316,Jeep,Wrangler,62428
+317,Kia,Sorento,70284
+318,Chrysler,300,51079
+319,Dodge,Ram 1500,154322
+320,Chevrolet,Impala,187768
+321,Mazda,Miata MX-5,24179
+322,Nissan,Titan,188844
+323,Subaru,Brat,109039
+324,Chevrolet,Cavalier,62903
+325,Audi,A6,117232
+326,Chevrolet,Express 2500,77206
+327,Chevrolet,G-Series G20,165321
+328,Infiniti,G,182808
+329,Honda,Accord,154172
+330,Subaru,Impreza,178087
+331,Toyota,Corolla,182470
+332,Mazda,626,24105
+333,Plymouth,Laser,134799
+334,Mazda,Mazda6 Sport,95573
+335,Ford,E-Series,104840
+336,Lamborghini,Murciélago,47573
+337,Mazda,323,155827
+338,Nissan,Cube,33515
+339,Geo,Storm,35089
+340,Chevrolet,Venture,16495
+341,Dodge,Caravan,172883
+342,Chrysler,Concorde,183612
+343,Honda,Odyssey,184857
+344,Suzuki,Grand Vitara,163378
+345,Volkswagen,New Beetle,66667
+346,Audi,4000CS Quattro,38943
+347,Maserati,Spyder,94990
+348,Pontiac,Grand Prix,27400
+349,BMW,7 Series,95836
+350,Chevrolet,Impala SS,128570
+351,Ford,Mustang,59026
+352,Acura,TL,106960
+353,Volvo,C70,191933
+354,Suzuki,Aerio,185560
+355,Ford,Edge,28792
+356,Chrysler,Imperial,195508
+357,GMC,Savana 3500,52100
+358,Dodge,Charger,28997
+359,Lexus,LS,61827
+360,Ford,Escort,120811
+361,Mercury,Monterey,72987
+362,Suzuki,Verona,75528
+363,Chrysler,PT Cruiser,26312
+364,Chevrolet,Astro,19766
+365,Scion,xB,38886
+366,Mazda,Millenia,40617
+367,Chevrolet,Cavalier,52200
+368,Mazda,Mazda6 5-Door,199751
+369,Chevrolet,Silverado Hybrid,75895
+370,Austin,Mini Cooper S,182562
+371,Mercury,Cougar,198356
+372,Land Rover,Discovery,168443
+373,Toyota,Previa,119594
+374,Honda,S2000,191423
+375,Kia,Amanti,43891
+376,GMC,Savana 2500,152959
+377,Mazda,MX-5,130393
+378,Chevrolet,Corvette,76122
+379,Audi,S4,145358
+380,Toyota,Avalon,142489
+381,Mitsubishi,Lancer Evolution,56077
+382,Chevrolet,Astro,92283
+383,Studebaker,Avanti,134584
+384,Audi,A6,105034
+385,Ford,Laser,45533
+386,Honda,CR-V,146261
+387,Dodge,Journey,15956
+388,BMW,M3,132875
+389,Mercury,Montego,147148
+390,Maybach,57,124645
+391,Audi,S5,184440
+392,Chevrolet,Venture,185034
+393,Ford,F150,129943
+394,Chevrolet,Blazer,57647
+395,Ford,Explorer Sport,84485
+396,Pontiac,Grand Prix,69397
+397,Volvo,850,135220
+398,Toyota,Matrix,92468
+399,BMW,M,175545
+400,Chevrolet,Sportvan G20,150691
+401,Mazda,B-Series Plus,147591
+402,Chevrolet,Tracker,163725
+403,Lincoln,Mark LT,195570
+404,Bentley,Continental Super,64477
+405,Ford,E-Series,44568
+406,Lexus,IS,88888
+407,GMC,Yukon XL 2500,199512
+408,BMW,3 Series,78272
+409,Infiniti,G,37535
+410,Toyota,Camry,189791
+411,Mercedes-Benz,E-Class,198539
+412,Lexus,ES,126144
+413,Toyota,4Runner,40115
+414,Dodge,Avenger,18671
+415,Lexus,LS,172897
+416,Chevrolet,S10,74921
+417,Toyota,RAV4,96114
+418,Chevrolet,Impala,41315
+419,Infiniti,Q,141975
+420,Mercedes-Benz,C-Class,74100
+421,Volvo,S80,175913
+422,Mitsubishi,Pajero,191672
+423,Land Rover,Discovery Series II,56691
+424,Dodge,Ram 3500,11716
+425,Lotus,Elan,192456
+426,Volvo,V70,172249
+427,Nissan,Maxima,95590
+428,Ford,Mustang,51667
+429,Mitsubishi,Eclipse,66099
+430,Jeep,Wrangler,182620
+431,Volkswagen,Golf,26627
+432,Dodge,Ram Van B150,99013
+433,Chrysler,Voyager,186912
+434,Nissan,GT-R,105454
+435,Honda,Civic,13932
+436,Nissan,Sentra,135871
+437,Rolls-Royce,Phantom,148705
+438,BMW,530,162370
+439,Oldsmobile,Bravada,142815
+440,Toyota,Avalon,11160
+441,Mazda,Tribute,183138
+442,Chevrolet,Express 2500,32942
+443,BMW,5 Series,23272
+444,Oldsmobile,Achieva,150524
+445,Ford,Courier,95927
+446,Ford,F350,79134
+447,Scion,xA,66792
+448,Volkswagen,Cabriolet,108419
+449,Ferrari,F430,71793
+450,Pontiac,Sunfire,189114
+451,Jaguar,S-Type,189613
+452,Ford,Bronco,16169
+453,Kia,Optima,86875
+454,Mercedes-Benz,S-Class,174402
+455,Ford,Bronco II,177890
+456,Saab,900,129658
+457,Isuzu,i-370,105739
+458,Lexus,GX,92541
+459,Toyota,Matrix,160013
+460,Maserati,Quattroporte,77272
+461,Toyota,Camry,103508
+462,Mitsubishi,RVR,118415
+463,Oldsmobile,98,142701
+464,Dodge,Colt,149495
+465,Mitsubishi,Raider,165213
+466,Ford,F-Series,88485
+467,GMC,Savana,166389
+468,Nissan,GT-R,73602
+469,Dodge,Grand Caravan,92049
+470,Oldsmobile,Bravada,196982
+471,Mazda,Tribute,164453
+472,Toyota,Sienna,88609
+473,GMC,1500 Club Coupe,58866
+474,Volkswagen,Cabriolet,172842
+475,Hyundai,Elantra,171428
+476,Pontiac,Trans Sport,15150
+477,Buick,Lucerne,63646
+478,Chevrolet,Equinox,41562
+479,Infiniti,Q,129762
+480,Honda,Accord,42308
+481,Toyota,Land Cruiser,182991
+482,Buick,Terraza,96644
+483,Lexus,LX,126768
+484,Volvo,V40,59122
+485,Mazda,RX-7,150619
+486,Pontiac,Grand Prix,77435
+487,Chevrolet,Avalanche 1500,99125
+488,Lexus,GS,125035
+489,BMW,525,102223
+490,Acura,RL,169616
+491,Toyota,Tundra,127602
+492,Ford,F-Series Super Duty,131744
+493,Toyota,4Runner,37434
+494,Mitsubishi,Challenger,151968
+495,Ford,E-Series,153571
+496,Toyota,Sienna,74539
+497,Subaru,Outback,74689
+498,Lincoln,Mark LT,43546
+499,Mercury,Mountaineer,171902
+500,Pontiac,Grand Am,61047
+501,Acura,NSX,121045
+502,Jaguar,XJ Series,120332
+503,Ford,Fairlane,13655
+504,Nissan,Pathfinder,31658
+505,Subaru,Alcyone SVX,46555
+506,Pontiac,Grand Prix,146959
+507,Mitsubishi,GTO,37721
+508,Ford,Econoline E350,21992
+509,Infiniti,G,36649
+510,Lexus,LX,50024
+511,Chevrolet,Corvette,43812
+512,Toyota,RAV4,84540
+513,Nissan,Maxima,14096
+514,Aston Martin,DB9,191231
+515,Dodge,Ram Van 1500,132392
+516,Volkswagen,Touareg,19623
+517,Honda,Odyssey,160220
+518,Nissan,Sentra,189110
+519,Dodge,Spirit,156768
+520,BMW,545,21077
+521,Audi,80,162046
+522,Hyundai,Tucson,111270
+523,Volkswagen,Routan,114069
+524,GMC,Vandura G3500,113307
+525,Mercedes-Benz,SLK-Class,97660
+526,Hummer,H1,40395
+527,Chevrolet,Camaro,89511
+528,Chevrolet,Silverado 2500,26622
+529,Chevrolet,Suburban 2500,60483
+530,Chevrolet,Monte Carlo,130184
+531,Dodge,Caravan,94657
+532,Cadillac,Escalade,152394
+533,Suzuki,XL7,121205
+534,Mitsubishi,GTO,134654
+535,Cadillac,STS-V,150132
+536,Suzuki,Reno,91119
+537,Rolls-Royce,Phantom,97553
+538,Volkswagen,Passat,178594
+539,Saturn,Outlook,82292
+540,Toyota,Solara,103601
+541,GMC,Sonoma Club Coupe,109893
+542,Dodge,Dakota Club,183774
+543,Audi,Cabriolet,127434
+544,Mercedes-Benz,S-Class,27930
+545,Land Rover,LR4,101216
+546,Ford,E-Series,144344
+547,Toyota,Corolla,117885
+548,Bentley,Continental Flying Spur,181451
+549,Mitsubishi,Montero Sport,177730
+550,Ford,Freestyle,165529
+551,Oldsmobile,Alero,157304
+552,GMC,Savana 3500,29302
+553,Maybach,Landaulet,75976
+554,Lexus,HS,190062
+555,Dodge,Caliber,31048
+556,Mazda,929,33171
+557,GMC,Rally Wagon G3500,11997
+558,Subaru,Legacy,34106
+559,Pontiac,Firebird,33407
+560,Pontiac,Firefly,10868
+561,BMW,M3,186130
+562,Buick,Park Avenue,22160
+563,Dodge,Ram 1500 Club,77465
+564,Plymouth,Acclaim,142707
+565,Volkswagen,CC,98172
+566,Maserati,228,139881
+567,GMC,Terrain,94397
+568,Dodge,Ram 1500,43072
+569,Audi,TT,26928
+570,Pontiac,Bonneville,92980
+571,Chevrolet,Equinox,55528
+572,Corbin,Sparrow,116490
+573,Dodge,Ram 3500,78420
+574,Chevrolet,Camaro,84260
+575,Buick,Estate,187916
+576,Buick,Regal,153157
+577,Volkswagen,GTI,51850
+578,Toyota,Corolla,145301
+579,Kia,Sedona,25707
+580,Jeep,Patriot,65730
+581,GMC,Savana 1500,19549
+582,GMC,Safari,59052
+583,BMW,7 Series,167893
+584,Suzuki,Swift,194789
+585,Ford,Crown Victoria,135403
+586,Mercedes-Benz,300CE,166537
+587,Isuzu,Trooper,136308
+588,Dodge,Avenger,10447
+589,Toyota,Camry Hybrid,79242
+590,Eagle,Talon,162376
+591,Ford,F-250 Super Duty,10198
+592,Volkswagen,Type 2,50897
+593,Ford,Escape,167413
+594,Mitsubishi,Outlander Sport,30278
+595,Suzuki,Grand Vitara,114117
+596,Audi,A5,27068
+597,Chevrolet,Silverado 1500,47669
+598,Ford,Explorer Sport,155068
+599,Jeep,Grand Cherokee,81487
+600,Ford,Five Hundred,176127
+601,Hyundai,Santa Fe,158311
+602,Land Rover,Range Rover,27132
+603,Saab,9-5,85508
+604,Ford,F250,66162
+605,Kia,Sportage,42762
+606,Toyota,Celica,91992
+607,Hyundai,Equus,100058
+608,Buick,Electra,172758
+609,GMC,Sierra 3500,172103
+610,Chevrolet,Cavalier,20065
+611,Toyota,Prius,64519
+612,Aston Martin,V8 Vantage,177492
+613,Ford,Ranger,99197
+614,Nissan,Altima,147037
+615,Volkswagen,Jetta III,135123
+616,Buick,Century,120807
+617,Ford,F450,116711
+618,Pontiac,Safari,89448
+619,Subaru,Forester,76977
+620,Kia,Rio,186207
+621,Ford,Mustang,190642
+622,Land Rover,LR3,44207
+623,Ford,Econoline E350,100855
+624,Plymouth,Breeze,50051
+625,Pontiac,GTO,184108
+626,Nissan,Cube,111799
+627,Mercury,Grand Marquis,56924
+628,Toyota,4Runner,142076
+629,Honda,Accord,109936
+630,Toyota,Tundra,131823
+631,Mercedes-Benz,S-Class,133631
+632,Ford,Focus,39627
+633,Pontiac,G6,69105
+634,Kia,Sportage,88710
+635,Ford,E250,46424
+636,Volvo,V70,128808
+637,Lexus,LX,155179
+638,Suzuki,XL-7,198039
+639,Bentley,Continental Flying Spur,23760
+640,Saturn,S-Series,113543
+641,Chevrolet,Silverado 3500,70472
+642,Mazda,MX-5,171268
+643,Pontiac,Sunbird,156181
+644,Pontiac,Firebird,86835
+645,Suzuki,Daewoo Lacetti,59560
+646,Toyota,MR2,16147
+647,Chevrolet,G-Series 1500,97148
+648,Jaguar,S-Type,69873
+649,Honda,Fit,79767
+650,Subaru,XT,145380
+651,Land Rover,Range Rover,29724
+652,Maserati,Karif,116580
+653,Buick,Regal,188210
+654,Lotus,Evora,86342
+655,Toyota,Land Cruiser,110321
+656,Audi,S4,25545
+657,Chevrolet,Impala,16100
+658,Pontiac,Grand Prix,115629
+659,Mitsubishi,Pajero,134878
+660,Chevrolet,Express 1500,125144
+661,Mercedes-Benz,SL-Class,58817
+662,Mercedes-Benz,GL-Class,144441
+663,Mercury,Tracer,131531
+664,Dodge,Intrepid,43456
+665,Toyota,Supra,185842
+666,Porsche,944,81486
+667,Mazda,MPV,182621
+668,Chevrolet,Silverado 3500,188998
+669,Kia,Amanti,139739
+670,Toyota,Tacoma,164240
+671,Buick,Regal,124277
+672,Jaguar,S-Type,132384
+673,Volkswagen,Type 2,44870
+674,Lexus,GX,54397
+675,Honda,Accord,150539
+676,Audi,5000S,78022
+677,Land Rover,Range Rover Sport,148723
+678,Pontiac,Vibe,75264
+679,Audi,RS6,165000
+680,Ford,Ranger,138206
+681,Dodge,Ram 2500,66487
+682,Porsche,944,75280
+683,Dodge,Dakota,186258
+684,Jeep,Wrangler,179417
+685,Porsche,Boxster,184821
+686,Mazda,323,111959
+687,Pontiac,Daewoo Kalos,165450
+688,Audi,Allroad,41631
+689,Hummer,H1,145678
+690,Mitsubishi,Chariot,21784
+691,Porsche,911,63721
+692,Ford,Mustang,46427
+693,Toyota,FJ Cruiser,188677
+694,Pontiac,Grand Prix,56758
+695,Ford,Bronco,74715
+696,Lexus,GS,46710
+697,Chevrolet,Suburban 1500,18431
+698,Chevrolet,Corvair 500,165134
+699,Lexus,LS,111861
+700,Land Rover,Defender 110,143947
+701,Pontiac,Grand Prix,51395
+702,Infiniti,G,33859
+703,Pontiac,Grand Prix,181211
+704,Buick,Park Avenue,41355
+705,BMW,Z4 M,151191
+706,Jeep,Wrangler,105701
+707,Pontiac,Solstice,70465
+708,Mercedes-Benz,CL-Class,39782
+709,Chevrolet,Corvette,106488
+710,Land Rover,Range Rover Sport,178853
+711,Mercury,Sable,154881
+712,Hyundai,Sonata,64163
+713,BMW,M5,57314
+714,Kia,Sedona,44267
+715,Audi,R8,137113
+716,Saturn,S-Series,150457
+717,Volvo,V70,122574
+718,Infiniti,QX,78098
+719,BMW,X6 M,40232
+720,Acura,RL,89202
+721,Oldsmobile,Alero,136526
+722,Mitsubishi,Pajero,15779
+723,Ford,Taurus,49681
+724,GMC,Terrain,98390
+725,Mercedes-Benz,SLS AMG,110084
+726,Mercury,Mystique,151618
+727,Mazda,MX-3,97902
+728,GMC,Yukon,183399
+729,BMW,6 Series,32094
+730,Kia,Sedona,48115
+731,Chrysler,Pacifica,120765
+732,Toyota,Corolla,105247
+733,Mercedes-Benz,GLK-Class,112612
+734,Ford,Club Wagon,25271
+735,Volvo,V70,193336
+736,Mitsubishi,Chariot,150004
+737,Hyundai,Excel,29961
+738,Subaru,Impreza,111748
+739,GMC,Savana 1500,58222
+740,Subaru,Leone,89531
+741,Mazda,626,74490
+742,Ford,F350,106231
+743,Suzuki,Reno,17517
+744,Mazda,Millenia,118765
+745,Lexus,LS,139243
+746,Plymouth,Voyager,43654
+747,Chevrolet,Suburban 2500,184835
+748,Chrysler,Concorde,94934
+749,Buick,Riviera,33644
+750,BMW,Z3,128162
+751,Ford,Edge,160754
+752,GMC,Envoy XL,133141
+753,Land Rover,Range Rover,63058
+754,Jaguar,XJ Series,172725
+755,Porsche,911,132278
+756,GMC,Envoy,86938
+757,Porsche,944,101264
+758,Nissan,Pathfinder,94336
+759,Land Rover,LR4,75267
+760,Land Rover,Discovery Series II,96380
+761,Chevrolet,Aveo,84445
+762,Jaguar,XF,78786
+763,Toyota,RAV4,146466
+764,Buick,Regal,197377
+765,Nissan,Quest,123155
+766,Mazda,Mazdaspeed 3,30132
+767,Buick,Park Avenue,139095
+768,Toyota,RAV4,140642
+769,Lotus,Elan,144840
+770,Chevrolet,Tracker,102868
+771,Spyker,C8,91678
+772,Kia,Rio,81017
+773,Ford,F150,132705
+774,GMC,Savana,187425
+775,GMC,Savana 2500,64024
+776,Dodge,Avenger,121844
+777,Nissan,370Z,17533
+778,Buick,Coachbuilder,72176
+779,Rolls-Royce,Phantom,44001
+780,Ford,F-Series,59906
+781,Dodge,Dakota,37990
+782,Audi,A8,143116
+783,Subaru,Legacy,124996
+784,Oldsmobile,Aurora,98515
+785,Saturn,Outlook,167040
+786,Mazda,Mazdaspeed 3,15130
+787,Kia,Sedona,45889
+788,Ford,Explorer,83551
+789,Volkswagen,Type 2,38739
+790,Dodge,Avenger,55852
+791,Chevrolet,Caprice,64162
+792,Pontiac,Montana,123165
+793,Dodge,Ram 3500,135306
+794,Kia,Spectra,110857
+795,Cadillac,Eldorado,150223
+796,Pontiac,Firebird,16468
+797,Toyota,Celica,74457
+798,Audi,80,27701
+799,Chevrolet,SSR,188689
+800,Suzuki,XL-7,137875
+801,Chevrolet,Suburban 1500,87573
+802,Jeep,Grand Cherokee,29816
+803,Ford,Club Wagon,177373
+804,Acura,MDX,138346
+805,Maybach,62,78486
+806,Volkswagen,Type 2,120073
+807,Ford,Explorer Sport Trac,83499
+808,Subaru,Impreza,131977
+809,Ford,F-Series,18774
+810,Lincoln,Continental,124999
+811,Kia,Amanti,114801
+812,Ford,Five Hundred,119370
+813,Dodge,Ram 1500 Club,54444
+814,GMC,2500 Club Coupe,97074
+815,Mercury,Capri,132201
+816,Ford,Explorer Sport,68639
+817,Kia,Mentor,72231
+818,Infiniti,M,149429
+819,Jaguar,S-Type,38184
+820,Buick,Century,164480
+821,Kia,Sportage,167593
+822,Ford,Taurus,75176
+823,Ford,Explorer Sport Trac,76764
+824,Lexus,ES,116877
+825,Porsche,Cayman,43172
+826,Chrysler,Cirrus,178971
+827,GMC,Savana,75271
+828,Ford,Expedition EL,63191
+829,Mazda,Millenia,150327
+830,Kia,Amanti,140160
+831,Mitsubishi,GTO,106453
+832,GMC,Savana 3500,147715
+833,Ford,Mustang,86714
+834,Lamborghini,Gallardo,177113
+835,Saab,9-3,144645
+836,Bentley,Arnage,22588
+837,MINI,Cooper Countryman,129114
+838,Lexus,LX,73224
+839,Lexus,LS,187915
+840,Lexus,RX,191751
+841,Ford,E-350 Super Duty Van,80803
+842,Scion,iQ,95189
+843,Mitsubishi,Endeavor,85934
+844,Dodge,Intrepid,113308
+845,Dodge,Grand Caravan,32670
+846,Volkswagen,Type 2,182789
+847,Suzuki,Vitara,39144
+848,Infiniti,M,87015
+849,Mazda,Familia,145929
+850,Chevrolet,Cavalier,59976
+851,Mercedes-Benz,W126,167799
+852,BMW,600,82762
+853,Pontiac,Firebird,11421
+854,Volkswagen,Jetta,160787
+855,Corbin,Sparrow,182199
+856,Ford,Econoline E150,22181
+857,Honda,Pilot,106607
+858,GMC,Yukon,73369
+859,Ford,E250,170393
+860,Chevrolet,Tracker,124632
+861,Lotus,Exige,168071
+862,Lotus,Esprit Turbo,12243
+863,Mercedes-Benz,W201,128717
+864,Toyota,Tundra,160787
+865,Isuzu,Ascender,21713
+866,Mitsubishi,Eclipse,49892
+867,Mercedes-Benz,CLS-Class,86406
+868,Mazda,Protege,199815
+869,Subaru,Loyale,126677
+870,Mercedes-Benz,400E,76779
+871,Plymouth,Voyager,64683
+872,Pontiac,Grand Prix,63032
+873,BMW,8 Series,164806
+874,Suzuki,SJ,25195
+875,Honda,CR-V,136276
+876,GMC,Sierra 1500,69155
+877,Kia,Sportage,58600
+878,Ford,Thunderbird,144120
+879,Nissan,Sentra,133698
+880,Audi,TT,133512
+881,Ford,F250,41575
+882,Suzuki,SX4,139005
+883,Hummer,H2,148415
+884,Dodge,Ram Van 1500,106775
+885,Acura,Integra,148759
+886,Ford,Flex,99370
+887,Ford,Fairlane,34446
+888,Chevrolet,Prizm,193105
+889,Volvo,XC90,197193
+890,Subaru,Legacy,153418
+891,Chevrolet,Corvette,171534
+892,Toyota,Corolla,54070
+893,Toyota,Sienna,176428
+894,Porsche,Carrera GT,27371
+895,Jeep,Compass,82622
+896,GMC,Sierra 1500,144616
+897,Volvo,XC90,101720
+898,Chevrolet,Corvette,143927
+899,Maybach,62,126246
+900,Nissan,Maxima,12794
+901,Lexus,SC,85457
+902,Pontiac,Firebird,195216
+903,Chevrolet,Blazer,178705
+904,GMC,Savana,185700
+905,Cadillac,CTS,103267
+906,Daihatsu,Charade,147537
+907,Isuzu,Rodeo,193733
+908,Nissan,Quest,79955
+909,BMW,M3,170270
+910,Mercury,Mountaineer,45261
+911,Volkswagen,Passat,190584
+912,Mercury,Mariner,106833
+913,Lamborghini,Gallardo,194538
+914,Honda,Civic,54285
+915,Honda,Accord,155197
+916,Porsche,Cayman,125584
+917,Suzuki,Swift,106256
+918,GMC,Sierra 3500,146567
+919,Ford,Econoline E350,128988
+920,Chevrolet,Vega,143725
+921,Mercury,Capri,183112
+922,Porsche,911,174494
+923,GMC,Sonoma,147919
+924,Ford,Escape,14971
+925,Pontiac,Grand Prix,112699
+926,Volkswagen,GTI,133377
+927,Lincoln,Town Car,60050
+928,Volkswagen,Tiguan,179516
+929,Land Rover,Freelander,160453
+930,Oldsmobile,Custom Cruiser,54784
+931,Dodge,Ram Van 3500,30205
+932,Toyota,Land Cruiser,75537
+933,Saturn,Relay,137734
+934,Chevrolet,Tahoe,193918
+935,Audi,A3,129650
+936,Ford,F150,147586
+937,Mercury,Grand Marquis,142094
+938,Toyota,Sequoia,69658
+939,Cadillac,XLR-V,61972
+940,Jaguar,S-Type,28271
+941,BMW,Z3,103079
+942,GMC,Sierra 2500,179226
+943,Acura,RDX,192759
+944,Volvo,S80,26485
+945,Mitsubishi,GTO,175476
+946,Ford,F-250 Super Duty,15279
+947,Mitsubishi,Tredia,89410
+948,Oldsmobile,98,44639
+949,Oldsmobile,98,185441
+950,Dodge,Intrepid,58335
+951,Pontiac,Grand Am,47984
+952,Hyundai,Tiburon,64380
+953,Buick,Lucerne,89873
+954,Pontiac,Firefly,92818
+955,Cadillac,XLR,166866
+956,Buick,Roadmaster,52733
+957,Pontiac,G8,120477
+958,Honda,Civic,47361
+959,Audi,RS6,184548
+960,Jaguar,XJ Series,29107
+961,Plymouth,Laser,12874
+962,Pontiac,Sunbird,57984
+963,Mercedes-Benz,SLS AMG,44706
+964,Lincoln,Town Car,119273
+965,BMW,X3,126363
+966,Dodge,Ram 50,54402
+967,Lexus,LS,141942
+968,Audi,A6,25315
+969,Chevrolet,Camaro,187822
+970,Suzuki,Esteem,155369
+971,Honda,Prelude,149299
+972,GMC,Envoy,10232
+973,Isuzu,Hombre,97704
+974,Mercedes-Benz,E-Class,147260
+975,Mercedes-Benz,W201,167504
+976,Mazda,Navajo,44898
+977,Suzuki,Esteem,128966
+978,Scion,iQ,61491
+979,Chevrolet,Caprice,113553
+980,Jaguar,XJ Series,62079
+981,Volvo,V70,118699
+982,Volkswagen,GTI,193859
+983,Ford,Escort,95112
+984,Chevrolet,HHR,188219
+985,Pontiac,Firebird,49509
+986,Pontiac,Trans Sport,70657
+987,Mercedes-Benz,CL-Class,185420
+988,Chevrolet,Classic,13788
+989,Hyundai,Veracruz,35845
+990,Chevrolet,Monte Carlo,38040
+991,Chrysler,New Yorker,189203
+992,Volkswagen,rio,54068
+993,Oldsmobile,Bravada,110866
+994,Hyundai,Santa Fe,151111
+995,Chrysler,Imperial,143706
+996,Mazda,CX-7,149141
+997,Mercedes-Benz,G-Class,152760
+998,Volkswagen,Eurovan,183449
+999,Aston Martin,Rapide,164520
+1000,Chevrolet,Silverado 1500,104245
