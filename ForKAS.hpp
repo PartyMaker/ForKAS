@@ -7,37 +7,7 @@
 #include <memory>
 #include <sstream>
 #include <algorithm>
-//-------------------------------------------------------------------------------------------------------------
-class CriticalSection
-{
-	std::atomic_flag m_Flag;
-public:
-	CriticalSection()
-	{
-		m_Flag.clear();
-	}
-	void Lock()
-	{
-		while (m_Flag.test_and_set(std::memory_order_acquire)) // acquire lock
-			; //std::this_thread::yield(); // spin 
-	}
-	void UnLock()
-	{
-		m_Flag.clear(std::memory_order_release); // release lock
-	}
-};
-struct LockCS
-{
-	CriticalSection& m_CS;
-	LockCS(CriticalSection& a_CS) : m_CS(a_CS)
-	{
-		m_CS.Lock();
-	}
-	~LockCS()
-	{
-		m_CS.UnLock();
-	}
-};
+#include <mutex>
 //-------------------------------------------------------------------------------------------------------------
 struct product
 {
@@ -59,7 +29,6 @@ struct key
 
 	key(const T* v = 0) : p(v) {}
 	bool operator< (const key& x) const { return *p < *x.p; }
-	bool operator< (const key* x) const { return p < x.p; }
 };
 //-------------------------------------------------------------------------------------------------------------
 template<typename I>
@@ -83,11 +52,11 @@ struct product_set
 	typedef std::multimap<key<std::string>, iterator> name_map;
 	auto insert(const product& v)
 	{
-		LockCS lock(m_CS);
+		std::lock_guard<std::mutex> lock_(m_mutex);
 		{
 			 auto i(m_name_map.find(&v.id));
 			 if (i != m_name_map.end())
-			 return std::make_pair(i->second, false);
+				return std::make_pair(i->second, false);
 		}
 		auto r(m_id_map.insert(id_map::value_type(&v.id, v)));
 		iterator i(r.first);
@@ -100,12 +69,12 @@ struct product_set
 	}
 	auto find_name(const std::string& name) const
 	{
-		LockCS lock(const_cast<CriticalSection&>(m_CS));
+		std::lock_guard<std::mutex> lock_(m_mutex);
 		return m_name_map.equal_range(&name);
 	}
 	auto erase(const std::string& id)
 	{
-		LockCS lock(m_CS);
+		std::lock_guard<std::mutex> lock_(m_mutex);
 		auto i(m_id_map.find(&id));
 		if (i != m_id_map.end())
 		{
@@ -122,24 +91,24 @@ struct product_set
 	}
 	iterator find_id(const std::string& id) const
 	{ 
-		LockCS lock(const_cast<CriticalSection&>(m_CS));
+		std::lock_guard<std::mutex> lock_(m_mutex);
 		return m_id_map.find(&id);
 	}
 	iterator begin() const
 	{ 
-		LockCS lock(const_cast<CriticalSection&>(m_CS));
+		std::lock_guard<std::mutex> lock_(m_mutex);
 		return m_id_map.begin();
 	}
 	iterator end() const
 	{
-		LockCS lock(const_cast<CriticalSection&>(m_CS));
+		std::lock_guard<std::mutex> lock_(m_mutex);
 		return m_id_map.end(); 
 	}
 
 private:
 	id_map m_id_map;
 	name_map  m_name_map;
-	CriticalSection m_CS;
+	mutable std::mutex m_mutex;
 };
 //-------------------------------------------------------------------------------------------------------------
 class CSVRow
