@@ -29,6 +29,13 @@ struct key
 
 	key(const T* v = 0) : p(v) {}
 	bool operator< (const key& x) const { return *p < *x.p; }
+	bool operator==(const key<std::string>& v) const { return *v.p == *p; }
+};
+struct Hash
+{
+	std::size_t operator()(const key<std::string>& v) const {
+		return std::hash<std::string>()(*v.p);
+	}
 };
 //-------------------------------------------------------------------------------------------------------------
 template<typename I>
@@ -47,7 +54,7 @@ struct map_iterator_adapter: I
 //-------------------------------------------------------------------------------------------------------------
 struct product_set
 {
-	typedef std::map<key<std::string>, product> id_map; //todo: change to unordered_map
+	typedef std::map<key<std::string>, product, Hash> id_map;
 	typedef map_iterator_adapter<id_map::const_iterator> iterator;
 	typedef std::multimap<key<std::string>, iterator> name_map;
 	auto insert(const product& v)
