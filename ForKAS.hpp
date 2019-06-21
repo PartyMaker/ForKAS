@@ -54,7 +54,7 @@ struct map_iterator_adapter: I
 //-------------------------------------------------------------------------------------------------------------
 struct product_set
 {
-	typedef std::map<key<std::string>, product, Hash> id_map;
+	typedef std::unordered_map<key<std::string>, product, Hash> id_map;
 	typedef map_iterator_adapter<id_map::const_iterator> iterator;
 	typedef std::multimap<key<std::string>, iterator> name_map;
 	auto insert(const product& v)
